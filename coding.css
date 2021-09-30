@@ -1,0 +1,52 @@
+body{
+  background-image: url("background.jpg");
+  background-size:cover;
+}
+#divo{
+  background-color: black;
+  opacity: 0.8;
+  width: 70%;
+  margin-left:20%;
+  margin-right:20%;
+  border: 10px solid black
+}
+img{
+  width: 40%;
+}
+ h2, span{
+   color: white ;
+   display: inline-block;
+ }
+ h1{
+   color: green;
+ }
+
+header{
+  text-align: center;
+}
+
+ #medio{
+   background-color: orange ;
+   width: 300px;
+   color: orange;
+   border-radius: 10px;
+ }
+
+#alto{
+  background-color: green ;
+  width: 600px;
+  color: green;
+  border-radius: 10px;
+}
+
+#basso {
+  background-color: red ;
+  width: 100px;
+  color: red;
+  border-radius: 10px;
+}
+
+ .n{
+   background-color: green;
+   height: 40px
+ }
